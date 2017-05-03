@@ -1,5 +1,5 @@
 # golang-web-app
-sample app
+sample web app
 
 * golang
 * Echo
